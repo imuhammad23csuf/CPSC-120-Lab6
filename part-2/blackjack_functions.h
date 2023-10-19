@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// Ibraheem Muhammad
+// imuhammad23@csu.fullerton.edu
+// @imuhammad23csuf
+// Partners: @ctrochez67, @jordang101
 
 /* Do not edit below this line. */
 /* Do not edit below this line. */
